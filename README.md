@@ -1,5 +1,14 @@
-# defaultdict-list-example-
 
+#IPython Notebooks 
+
+The IPython Notebooks for this Repo are available and nicely formatted here:
+
+http://nbviewer.ipython.org/github/thoma5B/defaultdict-list-example-/tree/master/
+
+
+### defaultdict-list-example
+
+```
 ipython-notebook file with the following code:
 
 from collections import defaultdict
@@ -31,3 +40,4 @@ for k, v in d.iteritems():
 dd[1].append(2)
 dd[1].remove(2)
 dd
+```
